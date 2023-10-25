@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+*egg-info*/
+.idea/
+*cache/
+*.log*
+output/
+*.session
+*.session-journal

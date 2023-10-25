@@ -1,0 +1,7 @@
+name: parser_example_311
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip:
+    - telethon==1.31.1
